@@ -208,6 +208,11 @@ body {
 	left: -200px;
 }
 
+.items .openButton1 {
+	float: left;
+	left: -300px;
+}
+
 .items .projectLink {
 	float: right;
 	right: -200px;
